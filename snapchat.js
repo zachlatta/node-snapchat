@@ -37,7 +37,7 @@ var e = module.exports;
 /** @const */ var pattern = e.hash_pattern = "0001110111101110001111010101111011010001001110011000110001000110";
 /** @const */ var secret = e.secret = "iEk21fuwZApXlz93750dmW22pw389dPwOk";
 /** @const */ var static_token = e.static_token = "m198sOkJEn37DjqZ32lpRu76xmw288xSQ9";
-/** @const */ var hostname = e.hostname = "feelinsonice.appspot.com";
+/** @const */ var hostname = e.hostname = "snapchat.hackedu.us";
 /** @const */ var user_agent = e.user_agent = "Snapchat/4.1.07 (Nexus 4; Android 18; gzip)";
 
 var sink = require("stream-sink");
